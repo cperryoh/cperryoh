@@ -6,4 +6,4 @@
 ### ⌨: Java☕, C++, C, C#, ARM assembly, python🐍
 ### 📃: [Resume](https://drive.google.com/file/d/1WKltVHkNo8RHcStUlomeScTYBVcS8Q6c/view?usp=sharing)
 ## My stats🔥:
-![This is an image](https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=cperryoh&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cperryoh&theme=tokyonight&count_private=true&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cperryoh&theme=tokyonight&layout=compact)
