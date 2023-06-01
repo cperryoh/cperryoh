@@ -1,6 +1,6 @@
 # Cperryoh's profile
 ## About me
-## Hello, my name is Cole. My github is full of random projects, have a look around. 
+## Hello. My github is full of random projects, have a look around. 
 ### 👨‍🎓: Rose-Hulman Institute of Technoloy 2025 🐘
 ### 🏫 Highschool: New Albany Ohio Highschool 2021🦅
 ### ⌨: Java☕, C++, C, C#, ARM assembly, python🐍, Verilog, RISC-V
